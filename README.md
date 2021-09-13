@@ -1,3 +1,3 @@
 # video-grid
 
-https://codepen.io/lady_king/pen/JjJJLyb
+https://codepen.io/lady_king/full/JjJJLyb
